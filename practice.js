@@ -20,3 +20,13 @@ function deleteTodo(position) {
 }
 
 deleteTodo(0);
+
+
+var aaron = {
+  name: 'Aaron',
+  sayName: function() {
+    console.log(this.name);
+  }
+};
+
+aaron.sayName();
