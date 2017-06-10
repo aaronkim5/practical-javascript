@@ -14,5 +14,9 @@ function changeTodo(position, newValue) {
   displayTodos();
 };
 
+function deleteTodo(position) {
+  todos.splice(position, 1);
+  displayTodos();
+}
 
-changeTodo(0, 'this used to be item 1');
+deleteTodo(0);
