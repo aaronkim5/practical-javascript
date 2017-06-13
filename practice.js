@@ -29,4 +29,16 @@ var aaron = {
   }
 };
 
-aaron.sayName();
+
+var itemList = {
+  items: ['item 1', 'item 2', 'item 3'],
+  displayItems: function(){
+    console.log('my items:', this.items);
+  },
+  addItem: function(newItem) {
+    this.items.push(newItem);
+    this.displayItems();
+  }
+};
+
+itemList.addItem('newwwwww item');
