@@ -1,3 +1,5 @@
+$(document).ready(function () {
+
 var todoList = {
   todos: [],
   displayTodos: function () {
@@ -51,3 +53,19 @@ var todoList = {
     this.displayTodos();
   }
 };
+
+var displayAllButtons = document.getElementById('displayAllButtons');
+var toggleAllButtons = document.getElementById('toggleAllButtons');
+
+displayAllButtons.addEventListener('click', function() {
+  todoList.displayTodos();
+});
+
+
+
+
+
+
+
+
+});
