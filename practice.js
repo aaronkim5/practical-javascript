@@ -62,3 +62,5 @@ displayAllButtons.addEventListener('click', function() {
 
 });
 });
+
+// just so i can commit to github :)
