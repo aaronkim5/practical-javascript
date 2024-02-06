@@ -1,0 +1,2013 @@
+repo_name: aaronkim5/practical-javascript
+report_id: 17b81cad1ba706c01666da62da69abdb
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T18:44:31+00:00'
+requested_by: aaronkim5
+provider: github
+branch: master
+detected_tools_count: 158
+tools:
+- name: Bel
+  description: A new dialect of Lisp, by Paul Graham
+  website_url: http://paulgraham.com/bel.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.6.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Emu
+  description: A language for programming GPUs
+  website_url: https://calebwin.github.io/emu/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11042/emu-logo.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Eve
+  description: Programming designed for humans
+  website_url: http://programming.witheve.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: JSON
+  description: A lightweight data-interchange format
+  website_url: http://www.json.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Lit
+  description: "441 byte responsive \U0001F525 CSS framework"
+  website_url: https://ajusa.github.io/lit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Omi
+  description: Next generation web framework in 4KB JavaScript (Web Components + JSX
+    + Proxy + Path Updating)
+  website_url: https://github.com/Tencent/omi
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/9702/omi-logo.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Xtend
+  description: Flexible and expressive dialect of Java
+  website_url: http://www.eclipse.org/xtend/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Language Extensions
+  image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: dat
+  description: Real-time replication and versioning for data sets
+  website_url: http://dat-data.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Ace
+  description: Embeddable code editor written in JavaScript
+  website_url: https://ace.c9.io
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Collaborative Text Editor
+  image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Component
+  description: Client package management for building better web applications
+  website_url: http://component.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.4.1
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.17.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 9.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Internal
+  description: Build enterprise-ready internal tools, fast
+  website_url: https://internal.io/
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: No Code Platforms
+  image_url: https://img.stackshare.io/service/20883/default_dc9a97033dc80ffec6219df0d3b124121f4406ea.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Parse
+  description: The complete mobile app platform
+  website_url: https://parse.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Mobile Backend
+  image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Gmail
+  description: A free web-based e-mail service
+  website_url: https://mail.google.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Email Services
+  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Omise
+  description: An online payment gateway offering a wide range of processing solutions
+    for any business need
+  website_url: https://www.omise.co/
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: cURL
+  description: Command Line Tool and Library for Transferring Data With URLs
+  website_url: http://curl.haxx.se/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Transfer
+  image_url: https://img.stackshare.io/service/6552/curl-logo.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: CAS
+  description: How people build software
+  website_url: http://jasig.github.io/cas/4.2.x/index.html
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4987/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Copy
+  description: Accessible Cloud Storage from @Barracuda — Save your work. Save your
+    life.
+  website_url: http://copy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ECT
+  website_url: http://ectjs.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: FIX
+  description: We build tools to help make trading connections faster and easier.
+    Hosted and enterprise. Multi-asset class and multi-protocol.
+  website_url: https://fixspec.com/FIX/4.2
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Insight
+  description: Dashboard and analytics for teams using Pivotal Tracker.
+  website_url: https://www.in-sight.io
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Agile Project Management
+  image_url: https://img.stackshare.io/service/1511/u4rarRMd.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Lob
+  description: Print and Mail for Developers
+  website_url: https://lob.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Printing API
+  image_url: https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Make
+  description: The GNU Compiler Collection and GNU Toolchain (Binutils, GDB, GLIBC)
+  website_url: https://www.gnu.org/software/make/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Code Automation Tools
+  image_url: https://img.stackshare.io/service/3582/heckert_gnu.small.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Paw
+  description: The ultimate REST client for Mac
+  website_url: https://paw.cloud
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/2032/YApveawR.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Per
+  description: Offer usage-based billing to your customers without the work.
+  website_url: https://www.useper.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Swarm
+  website_url: https://github.com/docker/swarm
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2759/5429470.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Terminal
+  description: Virtual computers that start, resize, and scale in seconds
+  website_url: http://www.terminal.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1246/q6gO7SqU.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Try
+  description: Run a command and inspect its effects before changing your live system
+  website_url: https://github.com/binpash/try
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shell Utilities
+  image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: complexity
+  website_url: https://github.com/vigetlabs/grunt-complexity
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3642/4845.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: crea
+  description: 'Protocol for the creation of hypermedia dapps based on the #blockchain
+    that rewards creatives and curators of digital content. #IPFS #DPOS #CC $CREA
+    @crearynet'
+  website_url: https://creaproject.io
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: cssnano
+  description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
+  website_url: http://cssnano.co/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: jq
+  description: jq is a lightweight and flexible command-line JSON processor.
+  website_url: https://stedolan.github.io/jq
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7514/jq.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: nano
+  description: GNU Nano
+  website_url: http://www.nano-editor.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4184/nano_normal.jpg
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: nci
+  description: Flexible, open source continuous integration server written in node.js
+  website_url: https://github.com/node-ci/nci
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: after
+  description: After - tiny flow control
+  package_url: https://www.npmjs.com/after
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: args
+  description: Minimal toolkit for building CLIs
+  package_url: https://www.npmjs.com/args
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: code
+  description: Assertion library
+  package_url: https://www.npmjs.com/code
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: cross-spawn
+  description: Cross platform child_process#spawn and child_process#spawnSync
+  package_url: https://www.npmjs.com/cross-spawn
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: css
+  description: CSS parser / stringifier
+  package_url: https://www.npmjs.com/css
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: global
+  description: Require global variables
+  package_url: https://www.npmjs.com/global
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16772/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-babel
+  description: Use next generation JavaScript, today
+  package_url: https://www.npmjs.com/grunt-babel
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16633/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-eslint
+  description: Validate files with ESLint
+  package_url: https://www.npmjs.com/grunt-eslint
+  version: 19.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16384/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-jsonlint
+  description: Validate JSON files from grunt
+  package_url: https://www.npmjs.com/grunt-jsonlint
+  version: 1.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17749/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-newer
+  description: Run Grunt tasks with only those source files modified since the last
+    successful run
+  package_url: https://www.npmjs.com/grunt-newer
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17008/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: grunt-npm
+  description: A set of helpers for dealing with NPM from Grunt
+  package_url: https://www.npmjs.com/grunt-npm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17652/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: has
+  description: Object.prototype.hasOwnProperty.call shortcut
+  package_url: https://www.npmjs.com/has
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ink
+  description: React for CLI
+  package_url: https://www.npmjs.com/ink
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17838/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: intern
+  description: Intern. A next-generation code testing stack for JavaScript
+  package_url: https://www.npmjs.com/intern
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18437/default_7c0bc528b9c47f5cc09b0c87021a81c8d72b33f3.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: interpret
+  description: A dictionary of file extensions and associated module loaders
+  package_url: https://www.npmjs.com/interpret
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18291/default_ec4642266ca1e2c9cd968061f43c580c4620639b.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: jasmine-node
+  description: DOM-less simple JavaScript BDD testing framework for Node
+  package_url: https://www.npmjs.com/jasmine-node
+  version: 1.14.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16262/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: jsonlint
+  description: Validate JSON
+  package_url: https://www.npmjs.com/jsonlint
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17358/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: lab
+  description: Test utility
+  package_url: https://www.npmjs.com/lab
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16367/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: multiline
+  description: Multiline strings in JavaScript
+  package_url: https://www.npmjs.com/multiline
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18350/default_66453dac5039f3ea2d494ebb900a31c627b16d29.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: nan
+  description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -&gt; 11
+    compatibility'
+  package_url: https://www.npmjs.com/nan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: nano
+  description: The official CouchDB client for Node.js
+  package_url: https://www.npmjs.com/nano
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18280/default_807e706fb4295a0b54623f7e1643199bb97a2590.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: optimist
+  description: Light-weight option parsing with an argv hash
+  package_url: https://www.npmjs.com/optimist
+  version: 0.6.1
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: phantom
+  description: PhantomJS integration module for NodeJS
+  package_url: https://www.npmjs.com/phantom
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: promises-aplus-tests
+  description: Compliance test suite for Promises/A+
+  package_url: https://www.npmjs.com/promises-aplus-tests
+  version: 2.1.2
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18159/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: prompt
+  description: A beautiful command-line prompt for node.js
+  package_url: https://www.npmjs.com/prompt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16207/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: qunitjs
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: https://www.npmjs.com/qunitjs
+  version: 1.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16684/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: ref
+  description: Turn Buffer instances into "pointers"
+  package_url: https://www.npmjs.com/ref
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: sprintf
+  description: Sprintf
+  package_url: https://www.npmjs.com/sprintf
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17597/default_3a2c894d178d46e5b78f3e41ac6b2ced48b414c8.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: step
+  description: A simple control-flow library for node.JS that makes parallel execution
+  package_url: https://www.npmjs.com/step
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18191/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: strip-json-comments
+  description: Strip comments from JSON
+  package_url: https://www.npmjs.com/strip-json-comments
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16973/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: through
+  description: Simplified stream construction
+  package_url: https://www.npmjs.com/through
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16309/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.0.7
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: unexpected
+  description: Extensible BDD assertion toolkit
+  package_url: https://www.npmjs.com/unexpected
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17197/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/package.json
+  detection_source: node_modules/jquery/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery.terminal/package.json
+  detection_source: node_modules/jquery.terminal/package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
+- name: json
+  description: JSON component
+  package_url: http://bower.io/json
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/aaronkim5/practical-javascript/blob/master/node_modules/jquery/bower.json
+  detection_source: node_modules/jquery/bower.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-06-13 17:38:48.000000000 Z
