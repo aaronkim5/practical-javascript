@@ -1,0 +1,857 @@
+<!--
+&lt;--- Readme.md Snippet without images Start ---&gt;
+## Tech Stack
+aaronkim5/practical-javascript is built on the following main stack:
+
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Parse](https://parse.com) – Mobile Backend
+- [Lob](https://lob.com/) – Printing API
+- [Coveralls](https://coveralls.io/) – Code Coverage
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Component](http://component.io) – Front End Package Manager
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Python](https://www.python.org) – Languages
+- [Java](https://www.java.com) – Languages
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- [Insight](https://www.in-sight.io) – Agile Project Management
+- [Paw](https://paw.cloud) – API Tools
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [dat](http://dat-data.com/) – Database Tools
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [JSON](http://www.json.org/) – Languages
+- [D](http://dlang.org/) – Languages
+- [Gmail](https://mail.google.com) – Email Services
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [EJS](https://ejs.co/) – Templating Languages & Extensions
+- [ESLint](http://eslint.org/) – Code Review
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [Make](https://www.gnu.org/software/make/) – Code Automation Tools
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- [Ace](https://ace.c9.io) – Collaborative Text Editor
+- [Eve](http://programming.witheve.com/) – Languages
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [cURL](http://curl.haxx.se/) – File Transfer
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [hub](http://hub.github.com/) – Git Tools
+- [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
+- [Omise](https://www.omise.co/) – Payment Services
+- [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
+- [Emu](https://calebwin.github.io/emu/) – Languages
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Bel](http://paulgraham.com/bel.html) – Languages
+- [Typ](https://www.typ-set.com/) – File Conversion
+- [Internal](https://internal.io/) – No Code Platforms
+- [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- [Try](https://github.com/binpash/try) – Shell Utilities
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
+## Tech Stack
+aaronkim5/practical-javascript is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/86/68wTsXcT.png' alt='Parse'/> [Parse](https://parse.com) – Mobile Backend
+- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1511/u4rarRMd.png' alt='Insight'/> [Insight](https://www.in-sight.io) – Agile Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2032/YApveawR.png' alt='Paw'/> [Paw](https://paw.cloud) – API Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'/> [dat](http://dat-data.com/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'/> [JSON](http://www.json.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/3582/heckert_gnu.small.png' alt='Make'/> [Make](https://www.gnu.org/software/make/) – Code Automation Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'/> [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png' alt='Ace'/> [Ace](https://ace.c9.io) – Collaborative Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'/> [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'/> [Omise](https://www.omise.co/) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'/> [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/11042/emu-logo.png' alt='Emu'/> [Emu](https://calebwin.github.io/emu/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/11408/no-img-open-source.png' alt='Bel'/> [Bel](http://paulgraham.com/bel.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/20883/default_dc9a97033dc80ffec6219df0d3b124121f4406ea.jpg' alt='Internal'/> [Internal](https://internal.io/) – No Code Platforms
+- <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet with images End ---&gt;
+-->
+<div align="center">
+
+# Tech Stack File
+![](https://img.stackshare.io/repo.svg "repo") [aaronkim5/practical-javascript](https://github.com/aaronkim5/practical-javascript)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|158<br/>Tools used|02/06/24 <br/>Report generated|
+|------|------|
+</div>
+
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (12)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11408/no-img-open-source.png' alt='Bel'>
+  <br>
+  <sub><a href="http://paulgraham.com/bel.html">Bel</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'>
+  <br>
+  <sub><a href="http://en.wikipedia.org/wiki/C_(programming_language)">C lang</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'>
+  <br>
+  <sub><a href="http://dlang.org/">D</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'>
+  <br>
+  <sub><a href="https://ejs.co/">EJS</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'>
+  <br>
+  <sub><a href="http://www.ecma-international.org/ecma-262/6.0/">ES6</a></sub>
+  <br>
+  <sub>v6.6.0</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11042/emu-logo.png' alt='Emu'>
+  <br>
+  <sub><a href="https://calebwin.github.io/emu/">Emu</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'>
+  <br>
+  <sub><a href="http://programming.witheve.com/">Eve</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'>
+  <br>
+  <sub><a href="http://www.json.org/">JSON</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'>
+  <br>
+  <sub><a href="https://www.java.com">Java</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'>
+  <br>
+  <sub><a href="https://www.python.org">Python</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
+  <br>
+  <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (7)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'>
+  <br>
+  <sub><a href="http://www.microsoft.com/net/">.NET</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'>
+  <br>
+  <sub><a href="http://lesscss.org/">Less</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'>
+  <br>
+  <sub><a href="https://ajusa.github.io/lit/">Lit</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'>
+  <br>
+  <sub><a href="http://nodejs.org/">Node.js</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'>
+  <br>
+  <sub><a href="https://github.com/Tencent/omi">Omi</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'>
+  <br>
+  <sub><a href="http://www.eclipse.org/xtend/">Xtend</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'>
+  <br>
+  <sub><a href="http://jquery.com/">jQuery</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/databases.svg'/> Data (3)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'>
+  <br>
+  <sub><a href="http://dat-data.com/">dat</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'>
+  <br>
+  <sub><a href="https://entgo.io/">ent</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'>
+  <br>
+  <sub><a href="https://github.com/websockets/ws">ws</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (18)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png' alt='Ace'>
+  <br>
+  <sub><a href="https://ace.c9.io">Ace</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'>
+  <br>
+  <sub><a href="http://babeljs.io/">Babel</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'>
+  <br>
+  <sub><a href="http://component.io">Component</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'>
+  <br>
+  <sub><a href="https://coveralls.io/">Coveralls</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'>
+  <br>
+  <sub><a href="http://eslint.org/">ESLint</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'>
+  <br>
+  <sub><a href="http://gruntjs.com/">Grunt</a></sub>
+  <br>
+  <sub>v1.0.1</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'>
+  <br>
+  <sub><a href="http://gotwarlost.github.io/istanbul/">Istanbul</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'>
+  <br>
+  <sub><a href="http://jasmine.github.io/">Jasmine</a></sub>
+  <br>
+  <sub>v2.4.1</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
+  <br>
+  <sub><a href="https://www.nuget.org/">NuGet</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg' alt='PyPI'>
+  <br>
+  <sub><a href="https://pypi.org/">PyPI</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'>
+  <br>
+  <sub><a href="http://qunitjs.com/">QUnit</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'>
+  <br>
+  <sub><a href="http://requirejs.org/">RequireJS</a></sub>
+  <br>
+  <sub>v2.2.0</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg' alt='RubyGems'>
+  <br>
+  <sub><a href="https://rubygems.org/">RubyGems</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'>
+  <br>
+  <sub><a href="http://sinonjs.org/">SinonJS</a></sub>
+  <br>
+  <sub>v1.17.3</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'>
+  <br>
+  <sub><a href="http://hub.github.com/">hub</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'>
+  <br>
+  <sub><a href="https://github.com/jsdom/jsdom">jsdom</a></sub>
+  <br>
+  <sub>v9.9.1</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
+  <br>
+  <sub><a href="https://www.npmjs.com/">npm</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (2)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/20883/default_dc9a97033dc80ffec6219df0d3b124121f4406ea.jpg' alt='Internal'>
+  <br>
+  <sub><a href="https://internal.io/">Internal</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/86/68wTsXcT.png' alt='Parse'>
+  <br>
+  <sub><a href="https://parse.com">Parse</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (5)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'>
+  <br>
+  <sub><a href="https://chartio.com">Chartio</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'>
+  <br>
+  <sub><a href="https://mail.google.com">Gmail</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'>
+  <br>
+  <sub><a href="https://www.omise.co/">Omise</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'>
+  <br>
+  <sub><a href="https://www.typ-set.com/">Typ</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'>
+  <br>
+  <sub><a href="http://curl.haxx.se/">cURL</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## Other (25)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4987/pBeeJQDQ_normal.png' alt='CAS'>
+  <br>
+  <sub><a href="http://jasig.github.io/cas/4.2.x/index.html">CAS</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2492/Ie9kefsM_normal.png' alt='Copy'>
+  <br>
+  <sub><a href="http://copy.com">Copy</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4455/no-img-open-source.png' alt='EC'>
+  <br>
+  <sub><a href="BUG">EC</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2391/no-img-open-source.png' alt='ECT'>
+  <br>
+  <sub><a href="http://ectjs.com/">ECT</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png' alt='FIX'>
+  <br>
+  <sub><a href="https://fixspec.com/FIX/4.2">FIX</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1511/u4rarRMd.png' alt='Insight'>
+  <br>
+  <sub><a href="https://www.in-sight.io">Insight</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'>
+  <br>
+  <sub><a href="https://lob.com/">Lob</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3582/heckert_gnu.small.png' alt='Make'>
+  <br>
+  <sub><a href="https://www.gnu.org/software/make/">Make</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'>
+  <br>
+  <sub><a href="http://openlayers.org/">OpenLayers</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2032/YApveawR.png' alt='Paw'>
+  <br>
+  <sub><a href="https://paw.cloud">Paw</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10232/logo-500x300.png' alt='Per'>
+  <br>
+  <sub><a href="https://www.useper.com">Per</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'>
+  <br>
+  <sub><a href="https://github.com/kriskowal/q">Q</a></sub>
+  <br>
+  <sub>v1.4.1</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'>
+  <br>
+  <sub><a href="https://reactnavigation.org/">React Navigation</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2759/5429470.png' alt='Swarm'>
+  <br>
+  <sub><a href="https://github.com/docker/swarm">Swarm</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1246/q6gO7SqU.png' alt='Terminal'>
+  <br>
+  <sub><a href="http://www.terminal.com/">Terminal</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'>
+  <br>
+  <sub><a href="https://github.com/binpash/try">Try</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'>
+  <br>
+  <sub><a href="https://sdk.vercel.ai/docs">Vercel AI SDK</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3642/4845.png' alt='complexity'>
+  <br>
+  <sub><a href="https://github.com/vigetlabs/grunt-complexity">complexity</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg' alt='crea'>
+  <br>
+  <sub><a href="https://creaproject.io">crea</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg' alt='cssnano'>
+  <br>
+  <sub><a href="http://cssnano.co/">cssnano</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/9527/5502029.jpeg' alt='husky'>
+  <br>
+  <sub><a href="https://github.com/typicode/husky">husky</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7514/jq.png' alt='jq'>
+  <br>
+  <sub><a href="https://stedolan.github.io/jq">jq</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5588/jscom.png' alt='js'>
+  <br>
+  <sub><a href="www.js.com">js</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4184/nano_normal.jpg' alt='nano'>
+  <br>
+  <sub><a href="http://www.nano-editor.org/">nano</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+<tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7802/13189529.png' alt='nci'>
+  <br>
+  <sub><a href="https://github.com/node-ci/nci">nci</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (86)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (85)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[@octokit/rest](https://www.npmjs.com/@octokit/rest)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[after](https://www.npmjs.com/after)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[ai](https://www.npmjs.com/ai)|N/A|06/13/17|Aaron Kim |N/A|N/A|
+|[arg](https://www.npmjs.com/arg)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[args](https://www.npmjs.com/args)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[assert](https://www.npmjs.com/assert)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[ava](https://www.npmjs.com/ava)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[bl](https://www.npmjs.com/bl)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[cli](https://www.npmjs.com/cli)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[co](https://www.npmjs.com/co)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[code](https://www.npmjs.com/code)|N/A|06/13/17|Aaron Kim |BSD-3-Clause|N/A|
+|[conf](https://www.npmjs.com/conf)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[config](https://www.npmjs.com/config)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[copy](https://www.npmjs.com/copy)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[core-js](https://www.npmjs.com/core-js)|v2.2.2|06/13/17|Aaron Kim |MIT|N/A|
+|[cross-spawn](https://www.npmjs.com/cross-spawn)|v2.2.3|06/13/17|Aaron Kim |MIT|N/A|
+|[css](https://www.npmjs.com/css)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[debug](https://www.npmjs.com/debug)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[del](https://www.npmjs.com/del)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[expect](https://www.npmjs.com/expect)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[extend](https://www.npmjs.com/extend)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[fs](https://www.npmjs.com/fs)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[github](https://www.npmjs.com/github)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[glob](https://www.npmjs.com/glob)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[global](https://www.npmjs.com/global)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[gm](https://www.npmjs.com/gm)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-babel](https://www.npmjs.com/grunt-babel)|v6.0.0|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-cli](https://www.npmjs.com/grunt-cli)|v1.2.0|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-contrib-uglify](https://www.npmjs.com/grunt-contrib-uglify)|v1.0.1|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-contrib-watch](https://www.npmjs.com/grunt-contrib-watch)|v1.0.0|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-eslint](https://www.npmjs.com/grunt-eslint)|v19.0.0|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-jsonlint](https://www.npmjs.com/grunt-jsonlint)|v1.0.7|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-newer](https://www.npmjs.com/grunt-newer)|v1.2.0|06/13/17|Aaron Kim |MIT|N/A|
+|[grunt-npm](https://www.npmjs.com/grunt-npm)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[has](https://www.npmjs.com/has)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[he](https://www.npmjs.com/he)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[http](https://www.npmjs.com/http)|N/A|06/13/17|Aaron Kim |BSD-2-Clause|N/A|
+|[https](https://www.npmjs.com/https)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.11.4|06/13/17|Aaron Kim |MIT|N/A|
+|[i](https://www.npmjs.com/i)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[ini](https://www.npmjs.com/ini)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[ink](https://www.npmjs.com/ink)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[intern](https://www.npmjs.com/intern)|N/A|06/13/17|Aaron Kim |BSD-3-Clause|N/A|
+|[interpret](https://www.npmjs.com/interpret)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[ip](https://www.npmjs.com/ip)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[is](https://www.npmjs.com/is)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[jasmine-node](https://www.npmjs.com/jasmine-node)|v1.14.5|06/13/17|Aaron Kim |MIT|N/A|
+|[jsonlint](https://www.npmjs.com/jsonlint)|v1.6.2|06/13/17|Aaron Kim |MIT|N/A|
+|[lab](https://www.npmjs.com/lab)|N/A|06/13/17|Aaron Kim |BSD-3-Clause|N/A|
+|[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v3.5.0|06/13/17|Aaron Kim |MIT|N/A|
+|[ms](https://www.npmjs.com/ms)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[multiline](https://www.npmjs.com/multiline)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[nan](https://www.npmjs.com/nan)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[nano](https://www.npmjs.com/nano)|N/A|06/13/17|Aaron Kim |Apache-2.0|N/A|
+|[node](https://www.npmjs.com/node)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[np](https://www.npmjs.com/np)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[npm](https://www.npmjs.com/npm)|N/A|06/13/17|Aaron Kim |Artistic-2.0|N/A|
+|[ol](https://www.npmjs.com/ol)|N/A|06/13/17|Aaron Kim |BSD-2-Clause|N/A|
+|[optimist](https://www.npmjs.com/optimist)|v0.6.1|06/13/17|Aaron Kim |MIT,X11|N/A|
+|[os](https://www.npmjs.com/os)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[phantom](https://www.npmjs.com/phantom)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[promise](https://www.npmjs.com/promise)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[promises-aplus-tests](https://www.npmjs.com/promises-aplus-tests)|v2.1.2|06/13/17|Aaron Kim |WTFPL|N/A|
+|[prompt](https://www.npmjs.com/prompt)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[qunitjs](https://www.npmjs.com/qunitjs)|v1.23.1|06/13/17|Aaron Kim |MIT|N/A|
+|[rc](https://www.npmjs.com/rc)|N/A|06/13/17|Aaron Kim |BSD-2-Clause,MIT,Apache-2.0|N/A|
+|[read](https://www.npmjs.com/read)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[ref](https://www.npmjs.com/ref)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[request](https://www.npmjs.com/request)|N/A|06/13/17|Aaron Kim |Apache-2.0|N/A|
+|[resolve](https://www.npmjs.com/resolve)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[sprintf](https://www.npmjs.com/sprintf)|N/A|06/13/17|Aaron Kim |BSD-3-Clause|N/A|
+|[st](https://www.npmjs.com/st)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[step](https://www.npmjs.com/step)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[strip-json-comments](https://www.npmjs.com/strip-json-comments)|v2.0.1|06/13/17|Aaron Kim |MIT|N/A|
+|[tar](https://www.npmjs.com/tar)|N/A|06/13/17|Aaron Kim |ISC|N/A|
+|[test](https://www.npmjs.com/test)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[through](https://www.npmjs.com/through)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[tmp](https://www.npmjs.com/tmp)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[uglify](https://www.npmjs.com/uglify)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[uglify-js](https://www.npmjs.com/uglify-js)|v3.0.7|06/13/17|Aaron Kim |BSD-2-Clause|N/A|
+|[unexpected](https://www.npmjs.com/unexpected)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[url](https://www.npmjs.com/url)|N/A|06/13/17|Aaron Kim |MIT|N/A|
+|[watch](https://www.npmjs.com/watch)|N/A|06/13/17|Aaron Kim |Apache-2.0|N/A|
+|[yo](https://www.npmjs.com/yo)|N/A|06/13/17|Aaron Kim |BSD-2-Clause|N/A|
+
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png'/> Bower (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[json](http://bower.io/json)|N/A|06/13/17|Aaron Kim |N/A|N/A|
+
+<br/>
+<div align='center'>
+
+Generated via [Stack File](https://github.com/marketplace/stack-file)
