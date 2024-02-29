@@ -3,57 +3,57 @@
 ## Tech Stack
 aaronkim5/practical-javascript is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Parse](https://parse.com) – Mobile Backend
-- [Lob](https://lob.com/) – Printing API
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [Component](http://component.io) – Front End Package Manager
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
-- [Insight](https://www.in-sight.io) – Agile Project Management
-- [Paw](https://paw.cloud) – API Tools
-- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- [dat](http://dat-data.com/) – Database Tools
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [JSON](http://www.json.org/) – Languages
-- [D](http://dlang.org/) – Languages
-- [Gmail](https://mail.google.com) – Email Services
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [EJS](https://ejs.co/) – Templating Languages & Extensions
-- [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Make](https://www.gnu.org/software/make/) – Code Automation Tools
-- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
-- [Ace](https://ace.c9.io) – Collaborative Text Editor
-- [Eve](http://programming.witheve.com/) – Languages
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- [cURL](http://curl.haxx.se/) – File Transfer
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [hub](http://hub.github.com/) – Git Tools
-- [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
-- [Omise](https://www.omise.co/) – Payment Services
-- [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- [Emu](https://calebwin.github.io/emu/) – Languages
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - [Bel](http://paulgraham.com/bel.html) – Languages
-- [Typ](https://www.typ-set.com/) – File Conversion
-- [Internal](https://internal.io/) – No Code Platforms
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [D](http://dlang.org/) – Languages
+- [EJS](https://ejs.co/) – Templating Languages & Extensions
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- [Emu](https://calebwin.github.io/emu/) – Languages
+- [Eve](http://programming.witheve.com/) – Languages
+- [JSON](http://www.json.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
+- [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [dat](http://dat-data.com/) – Database Tools
 - [ent](https://entgo.io/) – Object Relational Mapper (ORM)
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Ace](https://ace.c9.io) – Collaborative Text Editor
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Component](http://component.io) – Front End Package Manager
+- [Coveralls](https://coveralls.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [hub](http://hub.github.com/) – Git Tools
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [Internal](https://internal.io/) – No Code Platforms
+- [Parse](https://parse.com) – Mobile Backend
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Gmail](https://mail.google.com) – Email Services
+- [Omise](https://www.omise.co/) – Payment Services
+- [Typ](https://www.typ-set.com/) – File Conversion
+- [cURL](http://curl.haxx.se/) – File Transfer
+- [Insight](https://www.in-sight.io) – Agile Project Management
+- [Lob](https://lob.com/) – Printing API
+- [Make](https://www.gnu.org/software/make/) – Code Automation Tools
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Paw](https://paw.cloud) – API Tools
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - [Try](https://github.com/binpash/try) – Shell Utilities
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -63,57 +63,57 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 aaronkim5/practical-javascript is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/86/68wTsXcT.png' alt='Parse'/> [Parse](https://parse.com) – Mobile Backend
-- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1511/u4rarRMd.png' alt='Insight'/> [Insight](https://www.in-sight.io) – Agile Project Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2032/YApveawR.png' alt='Paw'/> [Paw](https://paw.cloud) – API Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'/> [dat](http://dat-data.com/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'/> [JSON](http://www.json.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3582/heckert_gnu.small.png' alt='Make'/> [Make](https://www.gnu.org/software/make/) – Code Automation Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'/> [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png' alt='Ace'/> [Ace](https://ace.c9.io) – Collaborative Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'/> [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'/> [Omise](https://www.omise.co/) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'/> [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11042/emu-logo.png' alt='Emu'/> [Emu](https://calebwin.github.io/emu/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/11408/no-img-open-source.png' alt='Bel'/> [Bel](http://paulgraham.com/bel.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
-- <img width='25' height='25' src='https://img.stackshare.io/service/20883/default_dc9a97033dc80ffec6219df0d3b124121f4406ea.jpg' alt='Internal'/> [Internal](https://internal.io/) – No Code Platforms
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11042/emu-logo.png' alt='Emu'/> [Emu](https://calebwin.github.io/emu/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png' alt='JSON'/> [JSON](http://www.json.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'/> [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'/> [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png' alt='Xtend'/> [Xtend](http://www.eclipse.org/xtend/) – Language Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png' alt='dat'/> [dat](http://dat-data.com/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png' alt='Ace'/> [Ace](https://ace.c9.io) – Collaborative Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/20883/default_dc9a97033dc80ffec6219df0d3b124121f4406ea.jpg' alt='Internal'/> [Internal](https://internal.io/) – No Code Platforms
+- <img width='25' height='25' src='https://img.stackshare.io/service/86/68wTsXcT.png' alt='Parse'/> [Parse](https://parse.com) – Mobile Backend
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/8491/jYzpfxho_400x400.png' alt='Omise'/> [Omise](https://www.omise.co/) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/1511/u4rarRMd.png' alt='Insight'/> [Insight](https://www.in-sight.io) – Agile Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png' alt='Lob'/> [Lob](https://lob.com/) – Printing API
+- <img width='25' height='25' src='https://img.stackshare.io/service/3582/heckert_gnu.small.png' alt='Make'/> [Make](https://www.gnu.org/software/make/) – Code Automation Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/2032/YApveawR.png' alt='Paw'/> [Paw](https://paw.cloud) – API Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -124,7 +124,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [aaronkim5/practical-javascript](https://github.com/aaronkim5/practical-javascript)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|158<br/>Tools used|02/06/24 <br/>Report generated|
+|158<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
